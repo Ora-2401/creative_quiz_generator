@@ -1,0 +1,10 @@
+Write a Short Answer quiz for Grade 5 on English grammar or literature. 4 questions. none of the questions should be more than 1 sentence long.
+
+1. What is the past tense of the verb "run"?
+Answer: The past tense of the verb "run" is "ran".
+2. Who wrote the novel "Charlotte's Web"?
+Answer: E.B. White wrote the novel "Charlotte's Web".
+3. What is the noun form of the adjective "happy"?
+Answer: The noun form of the adjective "happy" is "happiness".
+4. Which punctuation mark is used to indicate a question?
+Answer: The punctuation mark used to indicate a question is a question mark (?).

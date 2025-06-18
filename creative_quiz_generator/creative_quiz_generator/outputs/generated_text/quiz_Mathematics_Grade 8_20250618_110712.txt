@@ -1,0 +1,41 @@
+Generate a Multiple Choice quiz for a Grade 8 student with 5 questions on mathematics. Include: none.
+
+1. What is the value of x in the equation 3x - 7 = 11?
+a) 4
+b) 5
+c) 6
+d) 7
+
+Answer: b) 5
+
+2. If a rectangle has a length of 8 cm and a width of 5 cm, what is its area?
+a) 20 square cm
+b) 30 square cm
+c) 40 square cm
+d) 50 square cm
+
+Answer: c) 40 square cm
+
+3. What is the missing number in the sequence: 2, 4, 6, ___, 10?
+a) 7
+b) 8
+c) 9
+d) 11
+
+Answer: c) 9
+
+4. If a right triangle has a leg of 6 cm and a hypotenuse of 10 cm, what is the length of the other leg?
+a) 4 cm
+b) 6 cm
+c) 8 cm
+d) 10 cm
+
+Answer: a) 4 cm
+
+5. What is the value of y in the equation 2y + 3 = 7?
+a) 2
+b) 3
+c) 4
+d) 5
+
+Answer: c) 4

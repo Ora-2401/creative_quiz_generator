@@ -1,0 +1,33 @@
+Write a Multiple Choice quiz for Grade 5 on English grammar or literature. 4 questions. none of the questions should be too difficult.
+
+1. Which of the following sentences is written in the past tense?
+a) I eat my lunch.
+b) I am eating my lunch.
+c) I ate my lunch.
+d) I will eat my lunch.
+
+Answer: c) I ate my lunch.
+
+2. Which of the following sentences correctly uses a contraction?
+a) I amn't going to the store.
+b) I aren't going to the store.
+c) I'm not going to the store.
+d) I isn't going to the store.
+
+Answer: c) I'm not going to the store.
+
+3. Which of the following sentences correctly uses a possessive noun?
+a) The dog's tail is wagging.
+b) The dogs tail is wagging.
+c) The dogs' tail is wagging.
+d) The dog tail is wagging.
+
+Answer: a) The dog's tail is wagging.
+
+4. Which of the following sentences correctly uses a plural noun?
+a) The childs are playing.
+b) The childrens are playing.
+c) The children are playing.
+d) The child are playing.
+
+Answer: c) The children are playing.

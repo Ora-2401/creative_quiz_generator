@@ -1,0 +1,31 @@
+Generate a Multiple Choice quiz for a Grade 4 student with 5 questions on mathematics. Include: none.
+
+1. What is the sum of 56 and 27?
+A) 73
+B) 83
+C) 93
+D) 103
+
+2. If you have 12 apples and you give 4 to your friend, how many apples do you have left?
+A) 6
+B) 8
+C) 10
+D) 12
+
+3. What is the product of 7 and 8?
+A) 56
+B) 60
+C) 64
+D) 72
+
+4. Which number is the largest: 32, 45, 19, 56?
+A) 32
+B) 45
+C) 19
+D) 56
+
+5. If a train travels at a speed of 60 miles per hour, how far will it travel in 2 hours?
+A) 100 miles
+B) 120 miles
+C) 140 miles
+D) 160 miles

@@ -1,0 +1,7 @@
+{
+    "Mathematics": "Generate a {quiz_type} quiz for a {grade} student with {num_questions} questions on mathematics. Include: {special_notes}.",
+    "Science": "Create a {quiz_type} quiz for a {grade} student with {num_questions} science questions. Notes: {special_notes}.",
+    "English": "Write a {quiz_type} quiz for {grade} on English grammar or literature. {num_questions} questions. {special_notes}",
+    "History": "Prepare a {quiz_type} quiz for a {grade} level learner on world history. {num_questions} questions. {special_notes}",
+    "Geography": "Design a {quiz_type} geography quiz for {grade} with {num_questions} questions. Notes: {special_notes}"
+}
