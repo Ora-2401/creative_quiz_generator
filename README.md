@@ -1,68 +1,35 @@
-#  Creative Quiz Generator for Primary School Kids 
+#  Creative Quiz Generator for Primary School Kids
 
-This project is a colorful and interactive **Quiz Generator** designed to help young learners (ages 6–12) improve their knowledge in subjects like Math, English, and General Knowledge in a fun and engaging way. The app automatically generates age-appropriate questions with multiple choice answers, making learning feel like play!
-
----
-
-##  Project Features
-
-- **Auto-Generated Questions**  
-  Randomly creates fun and educational quiz questions for young students.
-
--  **Kid-Friendly Design**  
-  Uses bright colors, large fonts, and playful language to keep children engaged.
-
--  **Multiple Categories**  
-  - Mathematics (e.g., addition, subtraction, shapes)
-  - English (e.g., spelling, grammar)
-  - General Knowledge (e.g., animals, geography, fun facts)
-
-- **Instant Feedback**  
-  Tells children whether their answer is correct or not and explains the right answer in a simple way.
-
--  **Score Tracking**  
-  Keeps track of how many questions the child gets right and encourages them to improve.
+An interactive and fun **Quiz Generator App** built with **Streamlit** to help primary school learners (ages 6–12) test and improve their knowledge across various subjects like Math, English, and General Knowledge — all in a colorful, engaging environment!
 
 ---
 
-##  Technologies Used
+##  Features
 
-- Java / Python / Scratch / No-code Tool (Customize based on your platform)
-- GUI Framework: Swing / Tkinter / Streamlit / Thunkable
-- Optional: JSON or database file for storing questions and results
+-  **Randomized Quizzes**  
+  Automatically generates child-friendly quiz questions in multiple categories.
 
----
+-  **Subject Areas**
+  - **Math:** Basic arithmetic, shapes, counting
+  - **English:** Spelling, simple grammar, vocabulary
+  - **General Knowledge:** Animals, colors, geography, fun facts
 
-##  How to Run
+-  **Multiple Choice Interface**  
+  Easy-to-click buttons and radio options for answering questions.
 
-1. Clone or download the project folder.
-2. Open the project in your preferred IDE or platform.
-3. Run the main file (e.g., `Main.java`, `app.py`, or open in no-code tool).
-4. Select a quiz category and start answering questions!
+-  **Kid-Friendly UI**  
+  Bright visuals, large fonts, emojis, and clean layout ideal for young learners.
 
----
-
-##  Learning Objectives
-
-- Promote independent learning and curiosity in young children.
-- Improve basic subject knowledge in a fun way.
-- Familiarize kids with interactive technology in education.
+-  **Instant Feedback & Scoring**  
+  Shows correct answers with encouragement and keeps track of scores.
 
 ---
 
-##  Future Improvements
+##  Built With
 
--  Add sound effects and voice-over instructions.
--  Add support for multiple languages.
--  Add themes and character mascots.
--  Enable parents or teachers to add custom questions.
-
----
-
-## Created By
-
-** Oratile Modubu**
+- [Streamlit](https://streamlit.io) – For the web app interface
+- Python – Core logic and data handling
+- JSON/CSV – For storing quiz questions (if used)
+- Emojis and styling – To make the experience friendly and fun
 
 ---
-
-> *“Learning should never be boring — let’s make every question an adventure!”*
